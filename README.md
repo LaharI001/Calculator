@@ -5,7 +5,7 @@ This Calculator app is an application developed for android devices like phones
 
 Fundamental  mathematical calculations are required to be performed in every step of human life. In most of the places such as in shops, hotels, medicals, schools etc., separate calculators are used for calculation. But, these calculators, being larger in size and needing extra power, can’t be carried all the time with us. This creates the necessity of a mobile calculator which is always with us.
 
-Since android applications are the most compatible ones and easily available, android cell phones and tablets are the most widely used devices all over the world.
+Since android applications are the most compatible ones and easily available, android cell phones and tablets are the most widely used devices all over the world.....
 
 
 
